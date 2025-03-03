@@ -1,0 +1,14 @@
+$HOME/fastq/wago4_Input_cgh1_1.fq.gz,DZ.20211015_cgh1.wago4.input.r1,WS230
+$HOME/fastq/wago4_Input_WT_1.fq.gz,DZ.20211015_wt.wago4.input.r1,WS230
+$HOME/fastq/wago4_IP_cgh1_1.fq.gz,DZ.20211015_cgh1.wago4.ip.r1,WS230
+$HOME/fastq/wago4_IP_WT_1.fq.gz,DZ.20211015_wt.wago4.ip.r1,WS230
+$HOME/fastq/DZ4W_R1.fq.gz,DZ.20210304_RRS,WS230.reporter
+$HOME/fastq/DZ407W_R1.fq.gz,DZ.20210304_RRS.cgh1,WS230.reporter
+$HOME/fastq/wt_L4440_P0_R1.fq.gz,DZ.20220708_wt.mex5.gfp.L4440.P0,WS230.mex5.gfp
+$HOME/fastq/wt_GFP_P0_R1.fq.gz,DZ.20220708_wt.mex5.gfp.GFP.P0,WS230.mex5.gfp
+$HOME/fastq/wt_GFP_F1_R1.fq.gz,DZ.20220708_wt.mex5.gfp.GFP.F1,WS230.mex5.gfp
+$HOME/fastq/wt_GFP_F2_R1.fq.gz,DZ.20220708_wt.mex5.gfp.GFP.F2,WS230.mex5.gfp
+$HOME/fastq/cgh1_L4440_P0_R1.fq.gz,DZ.20220708_cgh1.mex5.gfp.L4440.P0,WS230.mex5.gfp
+$HOME/fastq/cgh1_GFP_P0_R1.fq.gz,DZ.20220708_cgh1.mex5.gfp.GFP.P0,WS230.mex5.gfp
+$HOME/fastq/cgh1_GFP_F1_R1.fq.gz,DZ.20220708_cgh1.mex5.gfp.GFP.F1,WS230.mex5.gfp
+$HOME/fastq/cgh1_GFP_F2_R1.fq.gz,DZ.20220708_cgh1.mex5.gfp.GFP.F2,WS230.mex5.gfp
